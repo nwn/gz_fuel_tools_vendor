@@ -2,6 +2,11 @@
 Changelog for package gz_fuel_tools_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update vendored package version to 9.1.0
+* Contributors: Addisu Z. Taddese
+
 0.0.4 (2024-07-15)
 ------------------
 * Update vendored package version to 9.0.3
